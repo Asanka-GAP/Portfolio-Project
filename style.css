@@ -80,6 +80,7 @@ section{
     align-items: center;
     justify-content: space-between;
     gap: 35px;
+    overflow: hidden;
 }
 .home-img{
     height: 460px;
