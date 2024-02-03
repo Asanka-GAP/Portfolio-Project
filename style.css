@@ -81,9 +81,10 @@ section{
     justify-content: space-between;
     gap: 35px;
     overflow: hidden;
+    margin-top: 20px;
 }
 .home-img{
-    height: 460px;
+    height: 550px;
     width: 460px;
     object-fit: contain;
     margin-right: 160px;
